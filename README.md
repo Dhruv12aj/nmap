@@ -1,1 +1,1 @@
-# namp
+# nmap
